@@ -1,7 +1,5 @@
 # HandInHand
 
-A community-driven platform where people create, join and track social service events in their local area, from winter clothes distributions in Mirpur 10 to blanket drives in Mohammadpur.
-
 Live site: https://b14-a8-mushfiq.vercel.app
 Server Repository: https://github.com/mushfiq-2102/B14-A8-server
 Client Repository: https://github.com/mushfiq-2102/B14-A8-client
